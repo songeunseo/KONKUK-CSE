@@ -1,4 +1,4 @@
 # KONKUK-CSE
-### 2024-1
-C프로그래밍, 웹프로그래밍, 확률과 통계
-### 2024-2
+ * C Programming - 박소영 교수
+ * probability and statistics - 이향원 교수
+ * Web programming - 박소영 교수
